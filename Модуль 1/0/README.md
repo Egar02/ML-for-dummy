@@ -179,3 +179,7 @@ git clone git@github.com:Egar02/ML-for-dummy.git
 ```
 
 Всё! доступ к репозиторию получен!
+
+## Шаг 4. Настройка среды разработки
+
+1. Скачиваем и устанавливаем версию VS Code для Windows. [Тык](https://code.visualstudio.com/download)
