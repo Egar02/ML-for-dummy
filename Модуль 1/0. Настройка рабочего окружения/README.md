@@ -223,7 +223,7 @@ git pull origin
 - На левой панели инструментов ищем иконку с монитором, кликаем по ней.
 - В списке "WSL Targets" ищем строку Ubuntu - наводим курсор на неё - должна появиться стрелка - кликаем по ней.
 
-![](https://drive.google.com/file/d/1J3VU8403X44VwyLCNx4m51F0Lz275_6L/view?usp=sharing)
+![](image.png)
 
 ---
 
