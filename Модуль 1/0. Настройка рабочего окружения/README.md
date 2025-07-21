@@ -224,7 +224,7 @@ git pull origin
 - На левой панели инструментов ищем иконку с монитором, кликаем по ней.
 - В списке "WSL Targets" ищем строку Ubuntu - наводим курсор на неё - должна появиться стрелка - кликаем по ней.
 
-![](image.png)
+![](./images/image.png)
 
 **4. Открываем файл для редактирования**
 
@@ -232,12 +232,12 @@ git pull origin
 - Жмём на кнопку Open Folder.
 - В появившемся окне жмём на кнопку ОК.
 
-![](image-2.png)
+![](./images/image-2.png)
 
 - Во вкладке explorer должно окрыться дерево файловой системы.
 - Ищем файл, указанный на скриншоте, открываем его в VS Code:
 
-![](image-1.png)
+![](./images/image-1.png)
 
 **5. Редактируем файл**
 
@@ -248,7 +248,7 @@ git pull origin
 ## ***Да, я готов ишачить!***
 ```
 
-![alt text](image-3.png)
+![alt text](./images/image-3.png)
 
 
 - Обязательно сохраняем файл.
@@ -276,7 +276,7 @@ git push origin main
 
 - Критерий выполнения задания - появление новой строки в соответствующем [файле](https://github.com/Egar02/ML-for-dummy/blob/main/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%201/0.%20%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B3%D0%BE%20%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/README.md) в github:
 
-![alt text](image-4.png)
+![alt text](./images/image-4.png)
 
 ---
 
