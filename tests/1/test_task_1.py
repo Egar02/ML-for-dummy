@@ -3,7 +3,7 @@ import subprocess
 
 def test_task_1():
     result = subprocess.run(
-        ["python", 'module_1/1/task_1.py'],
+        ["python", 'Module_1/Lesson_1/task_1.py'],
         capture_output=True,
         text=True
     )
