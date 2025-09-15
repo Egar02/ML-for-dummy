@@ -10,7 +10,7 @@ import subprocess
 ])
 def test_task_3(input_team, expected_output):
     result = subprocess.run(
-        ["python", 'module_1/1/task_3.py'],
+        ["python", 'Module_1/Lesson_1/task_3.py'],
         input=input_team + "\n",
         capture_output=True,
         text=True

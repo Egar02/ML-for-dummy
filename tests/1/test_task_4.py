@@ -12,7 +12,7 @@ def test_task_4(a, b, c, expected_output):
     input_data = f"{a}\n{b}\n{c}\n"
 
     process = subprocess.Popen(
-        ['python', 'module_1/1/task_4.py'],
+        ['python', 'Module_1/Lesson_1/1/task_4.py'],
         stdin=subprocess.PIPE,
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
